@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.3
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameOfLife", "source\GameOfLife\GameOfLife.csproj", "{D68E1209-F4B4-4133-BF53-21A468ACC805}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameOfLifeTest", "source\GameOfLifeTest\GameOfLifeTest.csproj", "{5B72FAD0-2510-475B-B2A2-88A8F5966BAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D68E1209-F4B4-4133-BF53-21A468ACC805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D68E1209-F4B4-4133-BF53-21A468ACC805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D68E1209-F4B4-4133-BF53-21A468ACC805}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D68E1209-F4B4-4133-BF53-21A468ACC805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B72FAD0-2510-475B-B2A2-88A8F5966BAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B72FAD0-2510-475B-B2A2-88A8F5966BAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B72FAD0-2510-475B-B2A2-88A8F5966BAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B72FAD0-2510-475B-B2A2-88A8F5966BAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
